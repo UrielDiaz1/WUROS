@@ -29,7 +29,7 @@ Shortcut | Description
 
 # Shell Commands
 Command | Description
---- | --- | ---
+--- | ---
 `exit` | Exits the current process.
 `lock` | Takes a mutex lock that may block other shells. 
 `sleep` | Puts the process to sleep.
